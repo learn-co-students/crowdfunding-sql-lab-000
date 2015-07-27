@@ -1,1 +1,4 @@
 -- your code here
+INSERT INTO users (name) VALUES ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"), ("User"); 
+INSERT INTO projects (title) VALUES ("Project"), ("Project"), ("Project"), ("Project"), ("Project"), ("Project"), ("Project"), ("Project"), ("Project"), ("Project");
+INSERT INTO pledges (amount) VALUES (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1), (1);
